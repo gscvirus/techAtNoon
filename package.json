@@ -1,0 +1,25 @@
+{
+  "name": "techatnoon",
+  "version": "1.0.0",
+  "description": "site to manage video content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gscvirus/techAtNoon.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Gonzalo Solano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gscvirus/techAtNoon/issues"
+  },
+  "homepage": "https://github.com/gscvirus/techAtNoon#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
