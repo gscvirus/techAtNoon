@@ -4,19 +4,14 @@
    Author's custom styles
    ========================================================================== */
 
+#videoContainer {
+    float: left;
+    width: 80%;
+    background-color: black;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#navBar {
+    float: left;
+    width: 20%;
+    background-color: red;
+}
